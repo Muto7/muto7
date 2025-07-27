@@ -6,7 +6,7 @@
 > "I solve real-world problems using code, automation, and containers 🐳."
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muchamad-supriyanto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iY3VycmVudENvbG9yIj48cGF0aCBkPSJNNi45NDA0OCA0Ljk5OTkzQzYuOTQwMTEgNS44MTQyNCA2LjQ0NjA4IDYuNTQ3MDIgNS42OTEzNCA2Ljg1MjczQzQuOTM2NiA3LjE1ODQ1IDQuMDcxODcgNi45NzYwNSAzLjUwNDkgNi4zOTE1NUMyLjkzNzkzIDUuODA3MDQgMi43ODE5NSA0LjkzNzE1IDMuMTEwNSA0LjE5MjA3QzMuNDM5MDYgMy40NDY5OSA0LjE4NjU0IDIuOTc1NSA1LjAwMDQ4IDIuOTk5OTNDNi4wODE1NSAzLjAzMjM4IDYuOTQwOTcgMy45MTgzNyA2Ljk0MDQ4IDQuOTk5OTNaTTcuMDAwNDggOC40Nzk5M0gzLjAwMDQ4VjIwLjk5OTlINy4wMDA0OFY4LjQ3OTkzWk0xMy4zMjA1IDguNDc5OTNIO...)](https://www.linkedin.com/in/muchamad-supriyanto/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/muto)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/muto7)
 
