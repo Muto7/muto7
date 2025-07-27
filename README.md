@@ -10,7 +10,7 @@
 
 ## 😎 Connect with me
 
-<p align="right">
+<p align="left">
   <a href="https://muto.dev"><img src="https://img.shields.io/badge/WEBSITE-muto.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://twitter.com/muto"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/muto"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -21,7 +21,7 @@
 
 ## 🧰 Technologies and Tools
 
-<table border="1" cellspacing="0" cellpadding="8" align="center">
+<table border="1" cellspacing="0" cellpadding="8" align="left">
   <thead>
     <tr>
       <th>Category</th>
