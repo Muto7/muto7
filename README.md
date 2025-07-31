@@ -13,7 +13,7 @@
 ## 👨‍💻 Technologies and Tools
 
 | Category           | Tools                                                                                                                                                                 |
-|--------------------|-----------------------------------------------------------------------------------------------gi-------------------------------------------------------------------------|
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ☁️ Cloud           | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) |
 | 🖥️ Hosting         | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![IDCloudHost](https://img.shields.io/badge/IDCloudHost-0054A6?style=flat&logo=cloud&logoColor=white) |
 | 🧠 Languages       | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![CSS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=css&logoColor=Blue) |
